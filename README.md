@@ -1,4 +1,4 @@
-# mtg-draft-generator
+# My Magic: the Gathering draft booster generator
 Here is an simple application to reuse your cards and generate a "draft booster" and play draft again.
 
 I made this for my Commander Legends Battle for Baldur's Gate collection, so, if you want to draft another set, you might need to do some changes.
